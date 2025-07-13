@@ -3,7 +3,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 /**
  * TablesIgniter
  *
- * TablesIgniterCI3 基於 CodeIgniter3 。它將可以幫助你在 用 server side mode 中使用 jQuery Datatables。 
+ * TablesIgniterCI3 CodeIgniter3 。server side mode jQuery Datatables。 
  * TablesIgniter-ci3 based on CodeIgniter3. This  library will help you use jQuery Datatables in server side mode.
  * @package    CodeIgniter3
  * @subpackage libraries
