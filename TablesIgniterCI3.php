@@ -11,7 +11,7 @@ if ( ! defined('BASEPATH')) exit('No direct script access allowed');
  * @version    2.0.0
  * @author    monkenWu <610877102@mail.nknu.edu.tw>
  * @link      https://github.com/monkenWu/TablesIgniter_ci3
- * @coauthor  satrianivzl <simon_montano@yahoo.com>
+ * @coauthor  satrianivzla <simon_montano@yahoo.com>
  * @link      https://github.com/satrianivzla/TablesIgniter4ci3
  *        
  */
